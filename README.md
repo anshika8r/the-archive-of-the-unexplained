@@ -98,6 +98,6 @@ Use a focused branch and pull request. Keep evidence, timeline and deduction rul
 
 ## Credits
 
-Created by **Anshika Rathore** for the Full-Power Frontend workshop, with AI-assisted development in ChatGPT. Built using vanilla HTML, CSS, JavaScript, SVG, Web Audio and browser storage.
+Created by **Anshika Rathore & Abhishek Rajeev** for the Full-Power Frontend workshop, with AI-assisted development in ChatGPT. Built using vanilla HTML, CSS, JavaScript, SVG, Web Audio and browser storage.
 
 No open-source license has been selected yet; publication alone does not grant a reuse license.
